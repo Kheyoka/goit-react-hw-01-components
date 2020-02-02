@@ -1,0 +1,19 @@
+.transactionHistory {
+  margin-top: 30px;
+  margin: 0 auto;
+  text-align: center;
+}
+.tableHeads {
+  background: blue;
+  color: #fff;
+  text-transform: uppercase;
+}
+.tH {
+  height: 50px;
+  padding: 10px;
+  border: 1px solid #d5dbdf;
+  color: #d5dbdf;
+}
+.tR {
+  text-transform: capitalize;
+}
